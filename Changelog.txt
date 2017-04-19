@@ -1,0 +1,18 @@
+A simple platform action game
+
+===
+Issues
+===
+
+===
+TODO
+===
+-use Tiled2Unity to make maps
+
+===
+Changelog
+===
+
+r1:
+-Added basic art
+-Added some basic cam and character controls
